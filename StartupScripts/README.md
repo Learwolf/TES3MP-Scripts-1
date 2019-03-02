@@ -104,6 +104,8 @@ You are welcome to modify the `startupData.json` file to properly set more varia
 
 ## CHANGELOG:
 ### SCRIPT CHANGELOG:
+#### 1.2.3:
+Fix locked chargen door based on [MaxYari's](https://github.com/MaxYari/TES3MP-Better-Intro) discovery.
 #### 1.2.2:
 My mind can't believe what I see
 My heart is bleeding

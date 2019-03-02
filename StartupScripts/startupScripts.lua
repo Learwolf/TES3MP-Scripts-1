@@ -1,5 +1,5 @@
 --------------------
--- Version: 1.2.2 --
+-- Version: 1.2.3 --
 --------------------
 
 local Methods = {}
@@ -162,8 +162,6 @@ Methods.DisableCharGen = function(pid)
     logicHandler.RunConsoleCommandOnPlayer(pid, "Set CharGenDoorEnterCaptain.done to 1")
     logicHandler.RunConsoleCommandOnPlayer(pid, "Set \"CharGen Door Captain\".done to 1")
     logicHandler.RunConsoleCommandOnPlayer(pid, "Set CharGenDoorExit.done to 1")
-    logicHandler.RunConsoleCommandOnPlayer(pid, "Set CharGenDoorGuardTalker.done to 1")
-    logicHandler.RunConsoleCommandOnPlayer(pid, "Set \"CharGen Door Guard\".done to 1")
     logicHandler.RunConsoleCommandOnPlayer(pid, "Set CharGenFatigueBarrel.done to 1")
     logicHandler.RunConsoleCommandOnPlayer(pid, "Set \"CharGen barrel fatigue\".done to 1")
     logicHandler.RunConsoleCommandOnPlayer(pid, "Set CharGenJournalMessage.done to 1")
