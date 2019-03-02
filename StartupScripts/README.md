@@ -1,5 +1,5 @@
 ﻿# Startup Scripts
-## VERSION 1.2
+## VERSION 1.2.2
 
 The script attempts to load as much of the missing objects, variables and anything else that would otherwise be lost after a relog. The variables and entities are adjusted based on player's journal and is independent of the journal sharing progress. Current fixes addressed by the script are documented below and one can expect the list to expand in the future.
 
@@ -104,6 +104,12 @@ You are welcome to modify the `startupData.json` file to properly set more varia
 
 ## CHANGELOG:
 ### SCRIPT CHANGELOG:
+#### 1.2.2:
+My mind can't believe what I see
+My heart is bleeding
+The story will not finish here
+This is not the end
+
 #### 1.2.1:
 Fix crashes on register.
 Fix scripts not being executed on register.
