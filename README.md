@@ -19,6 +19,9 @@ A not-so-harmless script that plays a random cliff racer sound at random interva
 ## Criminals
 A script that enhances the bounty system in TES3MP by adding messages to the chat when players are wanted, prefixes to criminals' messages and award bounty to those that kill the criminals.
 
+## DisableAssassins
+A one-in-all script that contains multiple approaches to tackling the Dark Brotherhood assassins in the Tribunal expansion, allowing to completely disable, delay or track associated variable and reduce their spawn count with a change of few numbers.
+
 ## PlayTime
 Script that tracks the play time of players playing on the server and saves it (in seconds) to players' data files. Adds two chat commands to either display individual play time or list the play times of all logged in players.
 
